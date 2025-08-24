@@ -14,7 +14,7 @@ BOT_TOKEN = os.getenv("BOT_TOKEN")
 if not BOT_TOKEN:
     raise ValueError("❌ BOT_TOKEN is not set in environment.")
 
-TELEGRAM_API_URL = f"https://api.telegram.org/bot{BOT_TOKEN}"
+TELEGRAM_API_URL = f"https://api.telegram.org/bot{8187231114:AAF3M9-kDdx9dSM4FTCSVTrnCXRP_1dFIVE}"
 
 
 # Send plain text to user
